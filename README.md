@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there! 🚀
 
-<!--
-**yashwilk/yashwilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Yash, a passionate **Machine Learning Engineer** and **Data Science** enthusiast who loves building intelligent systems and solving complex problems.
 
-Here are some ideas to get you started:
+## 📄 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **Passionate about**: Machine Learning, Data Science, Cloud Computing (GCP), and AI
+- - 📚 **Currently exploring**: Advanced RAG systems, Graph Neural Networks, and MLOps
+  - - 🗣️ **Let's talk about**: Python, TensorFlow, PyTorch, data engineering, and system design
+    - - 🎯 **Fun fact**: I love turning raw data into actionable insights!
+     
+      - ## 🙋‍♂️ What I'm Working On
+     
+      - - 📄 **Craster_RAG**: Advanced RAG implementation with semantic search
+        - - 🧠 **Graph Neural Networks**: Exploring graph-based machine learning architectures
+          - - 🔄 **ML Ops Pipeline**: Building scalable ML deployment systems on GCP
+            - - 📊 **Time Series Forecasting**: Real-time market data prediction models
+             
+              - ## 📚 Tech Stack
+             
+              - ### Languages & Frameworks
+              - ```
+                🐍 Python  🤖 TensorFlow  📍 PyTorch  🚀 Scikit-learn
+                ```
+
+                ### Cloud & DevOps
+                ```
+                ☁️ GCP (Vertex AI, BigQuery)  👓 Docker  🛠️ Kubernetes  �� Git
+                ```
+
+                ### Databases & Tools
+                ```
+                🖱️ PostgreSQL  🗣️ MongoDB  🧸 Spark  🚀 FastAPI
+                ```
+
+                ## 📈 GitHub Stats
+
+                ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwilk&show_icons=true&theme=radical)
+
+                ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwilk&layout=compact&theme=radical)
+
+                ## 📝 Featured Projects
+
+                ### 📄 Craster_RAG
+                *Advanced Retrieval Augmented Generation System*
+                - Semantic search with embeddings
+                - - Multi-document retrieval
+                  - - High-performance indexing
+                   
+                    - ### 🚀 Scalable Batch Prediction System
+                    - *Production ML Pipeline on GCP*
+                    - - Vertex AI integration
+                      - - Batch prediction workflows
+                        - - Model versioning and monitoring
+                         
+                          - ### 📋 Jane Street Market Forecasting
+                          - *Real-time Financial Data Analysis*
+                          - - Time series forecasting
+                            - - Feature engineering
+                              - - Risk analysis
+                               
+                                - ## 😅 Let's Connect!
+                               
+                                - - 📚 **Blog**: [Coming Soon]
+                                  - - 📧 **Email**: [Your Email]
+                                    - - 🖾️ **LinkedIn**: [Your LinkedIn]
+                                      - - 🗤 **Twitter**: [Your Twitter]
+                                       
+                                        - ---
+
+                                        ### 🙍‍♂️ Let's collaborate on exciting ML projects!
+
+                                        *Feel free to fork, star 🌠, and contribute to any of my projects. Let's build something amazing together!*
+
+                                        **Happy Coding!** 😀
