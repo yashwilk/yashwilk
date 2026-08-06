@@ -35,13 +35,9 @@ Welcome to my GitHub profile! I'm Yash, a passionate **Machine Learning Engineer
 
 ## 📊 GitHub Activity
 
-<div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=yashwilk&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwilk&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>div>username=yashwilk&show_icons=true&theme=radical)h
-
-                ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwilk&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwilk&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwilk&theme=radical&hide_border=true&layout=compact)username=yashwilk&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+                
                 ## 📝 Featured Projects
 
                 ### 📄 Craster_RAG
