@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm Yash, a passionate **Machine Learning Engineer
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwilk&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwilk&theme=radical&hide_border=true&layout=compact)username=yashwilk&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwilk&theme=radical&hide_border=true&layout=compact)
                 
                 ## 📝 Featured Projects
 
