@@ -59,4 +59,4 @@ Welcome to my GitHub profile! I'm Yash, a passionate **Machine Learning Engineer
                                 - ## 😅 Let's Connect!
                                
    - 📧 **Email**: [Your Email]
-   - **LinkedIn**: [Your LinkedIn]
+   - **LinkedIn**: [yashwil-k](https://www.linkedin.com/in/yashwil-k/)
