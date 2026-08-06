@@ -58,21 +58,9 @@ Welcome to my GitHub profile! I'm Yash, a passionate **Machine Learning Engineer
                          
                           - ### 📋 Jane Street Market Forecasting
                           - *Real-time Financial Data Analysis*
-                          - - Time series forecasting
-                            - - Feature engineering
-                              - - Risk analysis
+    - Risk analysis
                                
                                 - ## 😅 Let's Connect!
                                
-                                - - 📚 **Blog**: [Coming Soon]
-                                  - - 📧 **Email**: [Your Email]
-                                    - - 🖾️ **LinkedIn**: [Your LinkedIn]
-                                      - - 🗤 **Twitter**: [Your Twitter]
-                                       
-                                        - ---
-
-                                        ### 🙍‍♂️ Let's collaborate on exciting ML projects!
-
-                                        *Feel free to fork, star 🌠, and contribute to any of my projects. Let's build something amazing together!*
-
-                                        **Happy Coding!** 😀
+   - 📧 **Email**: [Your Email]
+   - **LinkedIn**: [Your LinkedIn]
